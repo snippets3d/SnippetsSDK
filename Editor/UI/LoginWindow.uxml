@@ -1,0 +1,21 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/_Snippets/Editor/UI/SnippetsStyles.uss?fileID=7433441132597879392&amp;guid=dd74fa6da00b6874c956cebaceaba284&amp;type=3#SnippetsStyles" />
+    <ui:VisualElement name="root-panel" class="snippets-background-panel" style="flex-grow: 1;">
+        <ui:VisualElement name="login-panel" style="flex-grow: 1; display: flex;">
+            <ui:Label text="Login to Snippets" name="title-label" enable-rich-text="true" class="snippets-header-title" />
+            <ui:VisualElement name="user-pass-panel" class="snippets-panel" style="flex-grow: 1; height: 80px;">
+                <ui:TextField picking-mode="Ignore" label="Username:" name="username-text-field" class="snippets-text-field" />
+                <ui:TextField picking-mode="Ignore" label="Password:" name="password-text-field" password="true" class="snippets-text-field" style="margin-top: 10px;" />
+            </ui:VisualElement>
+            <ui:Label text="Wrong username" name="error-label" style="-unity-font-style: bold; color: rgb(255, 0, 0); margin-left: 6px;" />
+            <ui:Button text="Login" parse-escape-sequences="true" display-tooltip-when-elided="true" name="login-button" class="snippets-button" style="bottom: 0; align-items: auto; align-self: center;" />
+        </ui:VisualElement>
+        <ui:VisualElement name="loggedin-panel" style="flex-grow: 1; display: none;">
+            <ui:Label text="You are currently logged in as &lt;USER_ID&gt;" name="loggedin-user-label" class="snippets-section-title" style="-unity-font-style: bold; height: 131px; -unity-text-align: middle-center;" />
+            <ui:Button text="Logout" parse-escape-sequences="true" display-tooltip-when-elided="true" name="logout-button" class="snippets-button" style="bottom: 0; align-items: stretch; transform-origin: bottom;" />
+        </ui:VisualElement>
+        <ui:VisualElement name="loggingin-panel" style="flex-grow: 1; display: flex; flex-basis: 100%; align-self: center; position: absolute; justify-content: center; align-items: center; background-color: rgba(48, 48, 48, 0.83); top: 1px; left: 1px; height: 100%; width: 100%; max-width: 100%; min-width: 100%; max-height: 100%; min-height: 100%;">
+            <ui:Label text="Performing login operation, please wait..." name="title-label" class="snippets-section-title" style="-unity-font-style: bold; -unity-text-align: middle-center; height: 100%; width: 100%; flex-shrink: 1; flex-grow: 1; max-width: 100%; max-height: 100%; min-width: 100%; min-height: 100%;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
