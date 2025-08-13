@@ -1,0 +1,1 @@
+Snippets SDK. Copyright (c) 2025 Snippets. All rights reserved.

@@ -1,0 +1,164 @@
+.snippets-button {
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    min-height: 30px;
+    font-size: 14px;
+    -unity-font-style: bold;
+    background-color: rgb(35, 136, 255);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    width: 30%;
+    align-self: center;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    margin-top: 0;
+}
+
+.snippets-header-title {
+    font-size: 22px;
+    -unity-font-style: bold;
+    align-self: center;
+    margin-bottom: 15px;
+    margin-top: 7px;
+    -unity-font-definition: url("project://database/Assets/_Snippets/SnippetsSDK/Art/Fonts/Funnel_Display/static/FunnelDisplay-Light%20SDF.asset?fileID=11400000&guid=c9303ccc523eade4a9c46ca971f568cc&type=2#FunnelDisplay-Light SDF");
+    color: rgb(211, 225, 241);
+}
+
+.snippets-section-title {
+    -unity-font-style: bold;
+    font-size: 16px;
+    -unity-font-definition: url("project://database/Assets/_Snippets/SnippetsSDK/Art/Fonts/Funnel_Display/static/FunnelDisplay-Light%20SDF.asset?fileID=11400000&guid=c9303ccc523eade4a9c46ca971f568cc&type=2#FunnelDisplay-Light SDF");
+    color: rgb(211, 225, 241);
+}
+
+.snippets-name-list-item {
+    -unity-font-style: italic;
+    font-size: 12px;
+    -unity-font-definition: url("project://database/Assets/_Snippets/SnippetsSDK/Art/Fonts/Funnel_Sans/static/FunnelSans-Regular%20SDF.asset?fileID=11400000&guid=f4ab0548a5880e8408740720283be227&type=2#FunnelSans-Regular SDF");
+    color: rgb(211, 225, 241);
+}
+
+.snippets-directory-list-item {
+    -unity-font-style: italic;
+    font-size: 12px;
+    -unity-font-definition: url("project://database/Assets/_Snippets/SnippetsSDK/Art/Fonts/Funnel_Sans/static/FunnelSans-Regular%20SDF.asset?fileID=11400000&guid=f4ab0548a5880e8408740720283be227&type=2#FunnelSans-Regular SDF");
+    color: rgb(211, 225, 241);
+}
+
+.snippets-text-field {
+    font-size: 14px;
+    min-height: 25px;
+    -unity-font-definition: url("project://database/Assets/_Snippets/SnippetsSDK/Art/Fonts/Funnel_Sans/static/FunnelSans-Medium%20SDF.asset?fileID=11400000&guid=98ceac9820f00424889f2ab3dc5ef91d&type=2#FunnelSans-Medium SDF");
+    color: rgb(211, 225, 241);
+}
+
+.snippets-background-panel {
+    flex-grow: 1;
+    background-color: rgb(34, 38, 41);
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+.snippets-panel {
+    margin-bottom: 40px;
+}
+
+.snippets-button-list-item {
+    height: 23px;
+    width: 102px;
+    background-color: rgb(35, 136, 255);
+    color: rgb(255, 255, 255);
+    -unity-font-definition: url("project://database/Assets/_Snippets/SnippetsSDK/Art/Fonts/Funnel_Sans/static/FunnelSans-Medium%20SDF.asset?fileID=11400000&guid=98ceac9820f00424889f2ab3dc5ef91d&type=2#FunnelSans-Medium SDF");
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+}
+
+.snippets-description-list-item {
+    color: rgb(211, 225, 241);
+    -unity-font-definition: url("project://database/Assets/_Snippets/SnippetsSDK/Art/Fonts/Funnel_Sans/static/FunnelSans-Regular%20SDF.asset?fileID=11400000&guid=f4ab0548a5880e8408740720283be227&type=2#FunnelSans-Regular SDF");
+}
+
+.snippets-section-subtitle {
+    -unity-font-style: bold-and-italic;
+    font-size: 12px;
+    -unity-font-definition: url("project://database/Assets/_Snippets/SnippetsSDK/Art/Fonts/Funnel_Display/static/FunnelDisplay-Medium%20SDF.asset?fileID=11400000&guid=626d70ad97c03c1488a8cce528aa0062&type=2#FunnelDisplay-Medium SDF");
+    color: rgb(211, 225, 241);
+}
+
+.snippets-text-field > TextInput {
+    background-color: rgb(53, 60, 64);
+    padding-right: 5px;
+    padding-left: 5px;
+
+}
+
+.snippets-button:hover {
+    background-color: rgb(77, 158, 255);
+}
+
+.snippets-button-list-item:hover {
+    background-color: rgb(76, 158, 255);
+}
+
+.snippets-object-field {
+    color: rgb(211, 225, 241);
+ 
+}
+
+.snippets-object-field > Label {
+    color: rgb(211, 225, 241);
+}
+
+.snippets-text-field > #unity-text-input,
+.snippets-text-field .unity-text-field__input {
+    flex: 0 0 250px;  
+    width: 250px;     
+}
+
+.snippets-text-field > Label,
+.snippets-text-field > .unity-base-field__label {
+    flex: 0 0 80px;   
+    width: 80px;
+    min-width: 0;     
+    text-align: right;
+    margin-right: 5px;
+}
+
+.unity-text-field {
+}
+
+.snippets-text-field {
+    -unity-font-definition: url("project://database/Assets/_Snippets/SnippetsSDK/Art/Fonts/Funnel_Sans/static/FunnelSans-Light%20SDF.asset?fileID=11400000&guid=759490db35c9b2c4f9004fb5ca1773ed&type=2#FunnelSans-Light SDF");
+    font-size: 14px;
+    min-height: 30px;
+    -unity-text-align: middle-left;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 10px;
+    margin-left: 0;
+    overflow: hidden;
+    
+    flex-direction: row;
+    flex-basis: auto;
+    height: 30px;
+}
+
+.unity-base-text-field {
+}
+
+.unity-base-field {
+}

@@ -1,0 +1,13 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/_Snippets/SnippetsSDK/Editor/UI/SnippetsStyles.uss?fileID=7433441132597879392&amp;guid=dd74fa6da00b6874c956cebaceaba284&amp;type=3#SnippetsStyles" />
+    <ui:VisualElement name="snippets-list-panel" class="snippets-panel" style="flex-grow: 1; height: 262px;">
+        <ui:Label tabindex="-1" text="The following Snippets will be imported into the project:" parse-escape-sequences="true" display-tooltip-when-elided="true" name="section-title" class="snippets-section-title" style="font-size: 14px; -unity-font-style: normal; -unity-font-definition: url(&quot;project://database/Assets/_Snippets/SnippetsSDK/Art/Fonts/Funnel_Sans/static/FunnelSans-Bold%20SDF.asset?fileID=11400000&amp;guid=8874d8732ced7da4ba06aa3d446924ff&amp;type=2#FunnelSans-Bold SDF&quot;);" />
+        <ui:ScrollView scroll-deceleration-rate="0,135" elasticity="0,1" name="ScrollView" style="margin-left: 20px;">
+            <ui:Label tabindex="-1" text="- 1. Introduction" parse-escape-sequences="true" display-tooltip-when-elided="true" class="snippets-name-list-item" />
+            <ui:Label tabindex="-1" text="- 2. How To Move The World" parse-escape-sequences="true" display-tooltip-when-elided="true" class="snippets-name-list-item" />
+            <ui:Label tabindex="-1" text="- 3. How To Enter A Concert" parse-escape-sequences="true" display-tooltip-when-elided="true" class="snippets-name-list-item" />
+            <ui:Label tabindex="-1" text="- 4. How to make a new friend" parse-escape-sequences="true" display-tooltip-when-elided="true" class="snippets-name-list-item" />
+            <ui:Label tabindex="-1" text="- 5. Conclusion and next steps" parse-escape-sequences="true" display-tooltip-when-elided="true" class="snippets-name-list-item" />
+        </ui:ScrollView>
+    </ui:VisualElement>
+</ui:UXML>
