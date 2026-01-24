@@ -16,7 +16,7 @@ namespace Snippets.Sdk
         /// <summary>
         /// The default base URL for the Snippets API
         /// </summary>
-        public const string DefaultBaseUrl = "https://api.snippets3d.com/api/v1";
+        public const string DefaultBaseUrl = "https://project-zipper-backend-dev.fly.dev/api/v1";
 
         /// <summary>
         /// The base URL for the REST API calls to perform

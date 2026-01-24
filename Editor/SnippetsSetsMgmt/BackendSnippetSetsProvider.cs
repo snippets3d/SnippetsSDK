@@ -16,7 +16,7 @@ namespace Snippets.Sdk
         /// <summary>
         /// The root URL for the snippets thumbnails. All the snippets thumbnails are relative to this URL.
         /// </summary>
-        public string SnippetsThumbnailRootUrl { get; set; } = @"https://app.snippets3d.com/";
+        public string SnippetsThumbnailRootUrl { get; set; } = @"https://project-zipper-frontend-dev.fly.dev.com/";
 
         /// <summary>
         /// The name of the directory where to save locally the thumbnails
