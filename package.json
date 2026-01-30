@@ -1,0 +1,25 @@
+{
+  "name": "com.snippets.sdk",
+  "version": "0.1.0",
+  "displayName": "Snippets SDK",
+  "description": "The package through which you can add informative Snippets to your project",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.cysharp.unitask": "2.5.10",
+    "org.khronos.unitygltf": "2.15.0",
+    "com.unity.textmeshpro": "3.0.6"
+  },
+  "keywords": [
+    "snippets",
+    "tutorial",
+    "explanation",
+    "guide",
+    "help",
+    "ai"
+  ],
+  "author": {
+    "name": "Snippets",
+    "email": "info@snippets.com",
+    "url": "https://snippets.com"
+  }
+}
