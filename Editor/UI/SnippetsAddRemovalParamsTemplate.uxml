@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/_Snippets/SnippetsSDK/Editor/UI/SnippetsStyles.uss?fileID=7433441132597879392&amp;guid=dd74fa6da00b6874c956cebaceaba284&amp;type=3#SnippetsStyles" />
+    <ui:VisualElement name="snippets-parameters-panel" class="snippets-panel" style="flex-grow: 1; margin-bottom: 30px;">
+        <ui:Label tabindex="-1" text="Snippets Template used:" parse-escape-sequences="true" display-tooltip-when-elided="true" name="section-title" class="snippets-section-title" style="font-size: 14px; -unity-font-definition: url(&quot;project://database/Assets/_Snippets/SnippetsSDK/Art/Fonts/Funnel_Sans/static/FunnelSans-Bold%20SDF.asset?fileID=11400000&amp;guid=8874d8732ced7da4ba06aa3d446924ff&amp;type=2#FunnelSans-Bold SDF&quot;); -unity-font-style: normal; margin-bottom: 10px;" />
+        <uie:ObjectField label="" name="snippets-creation-template" type="UnityEngine.GameObject, UnityEngine.CoreModule" class="snippets-text-field snippets-object-field snippets-object-field--nolabel" />
+    </ui:VisualElement>
+</ui:UXML>
