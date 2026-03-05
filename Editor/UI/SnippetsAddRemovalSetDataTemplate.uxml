@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/_Snippets/SnippetsSDK/Editor/UI/SnippetsStyles.uss?fileID=7433441132597879392&amp;guid=dd74fa6da00b6874c956cebaceaba284&amp;type=3#SnippetsStyles" />
+    <ui:VisualElement name="snippets-list-panel" class="snippets-panel" style="flex-grow: 1; width: 100%; max-width: 100%; min-width: 100%; margin-bottom: 40px;">
+        <ui:Label tabindex="-1" text="Snippet set imported:" parse-escape-sequences="true" display-tooltip-when-elided="true" name="section-title" class="snippets-section-title" style="font-size: 14px; -unity-font-style: normal; -unity-font-definition: url(&quot;project://database/Assets/_Snippets/SnippetsSDK/Art/Fonts/Funnel_Sans/static/FunnelSans-Bold%20SDF.asset?fileID=11400000&amp;guid=8874d8732ced7da4ba06aa3d446924ff&amp;type=2#FunnelSans-Bold SDF&quot;); margin-bottom: 10px;" />
+        <ui:VisualElement name="snippet-set-data-panel" style="flex-wrap: nowrap; margin-bottom: 0; margin-left: 20px; flex-direction: row; width: 95%; align-items: flex-start; align-self: flex-start;">
+            <ui:Label text="Snippet Name" name="snippet-set-name-label" class="snippets-directory-list-item" style="flex-wrap: wrap; flex-shrink: 1; flex-grow: 1; width: 100%; max-width: 100%; min-width: 100%; font-size: 12px; -unity-font-style: italic;" />
+            <ui:Label text="v1.0" name="snippet-set-version-label" class="snippets-directory-list-item" style="flex-wrap: wrap; width: 28px; max-width: 100%; min-width: 100%; -unity-font-style: normal; font-size: 12px;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
