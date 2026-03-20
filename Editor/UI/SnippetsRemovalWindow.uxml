@@ -1,0 +1,21 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <ui:Template name="SnippetsAddRemovalListTemplate" src="project://database/Assets/_Snippets/SnippetsSDK/Editor/UI/SnippetsAddRemovalListTemplate.uxml?fileID=9197481963319205126&amp;guid=97a7d1db144fccb47998db8383a88c2c&amp;type=3#SnippetsAddRemovalListTemplate" />
+    <ui:Template name="SnippetsAddRemovalSetDataTemplate" src="project://database/Assets/_Snippets/SnippetsSDK/Editor/UI/SnippetsAddRemovalSetDataTemplate.uxml?fileID=9197481963319205126&amp;guid=71152c2ab8069504aaae393450d543ab&amp;type=3#SnippetsAddRemovalSetDataTemplate" />
+    <ui:Template name="SnippetsAddRemovalDirectoriesTemplate" src="project://database/Assets/_Snippets/SnippetsSDK/Editor/UI/SnippetsAddRemovalDirectoriesTemplate.uxml?fileID=9197481963319205126&amp;guid=729599e163e5678449f4e1ae16a69548&amp;type=3#SnippetsAddRemovalDirectoriesTemplate" />
+    <ui:Template name="SnippetsAddRemovalWaitTemplate" src="project://database/Assets/_Snippets/SnippetsSDK/Editor/UI/SnippetsAddRemovalWaitTemplate.uxml?fileID=9197481963319205126&amp;guid=b8183cd1a56b04f469ae316bb92a3356&amp;type=3#SnippetsAddRemovalWaitTemplate" />
+    <Style src="project://database/Assets/_Snippets/SnippetsSDK/Editor/UI/SnippetsStyles.uss?fileID=7433441132597879392&amp;guid=dd74fa6da00b6874c956cebaceaba284&amp;type=3#SnippetsStyles" />
+    <ui:VisualElement name="root-panel" class="snippets-background-panel">
+        <ui:Label tabindex="-1" text="Removing Snippets" parse-escape-sequences="true" display-tooltip-when-elided="true" name="header-title" class="snippets-header-title" style="font-size: 16px; -unity-font-style: normal; -unity-font-definition: url(&quot;project://database/Assets/_Snippets/SnippetsSDK/Art/Fonts/Funnel_Sans/static/FunnelSans-Bold%20SDF.asset?fileID=11400000&amp;guid=8874d8732ced7da4ba06aa3d446924ff&amp;type=2#FunnelSans-Bold SDF&quot;);" />
+        <ui:Instance template="SnippetsAddRemovalListTemplate" name="SnippetsAddRemovalListTemplate" style="display: none;">
+            <AttributeOverrides element-name="section-title" text="The following Snippets will be removed from the project:" />
+        </ui:Instance>
+        <ui:Instance template="SnippetsAddRemovalSetDataTemplate" name="SnippetsAddRemovalSetDataTemplate">
+            <AttributeOverrides element-name="section-title" text="The following Snippets set will be removed from the project:" />
+        </ui:Instance>
+        <ui:Instance template="SnippetsAddRemovalDirectoriesTemplate" name="SnippetsAddRemovalDirectoriesTemplate">
+            <AttributeOverrides element-name="section-title" text="The content of the following folders will be permanently deleted:" />
+        </ui:Instance>
+        <ui:Button text="Delete" parse-escape-sequences="true" display-tooltip-when-elided="true" name="confirm-button" class="snippets-button" style="font-size: 12px; -unity-font-definition: url(&quot;project://database/Assets/_Snippets/SnippetsSDK/Art/Fonts/Funnel_Sans/static/FunnelSans-Bold%20SDF.asset?fileID=11400000&amp;guid=8874d8732ced7da4ba06aa3d446924ff&amp;type=2#FunnelSans-Bold SDF&quot;); -unity-font-style: normal; width: 120px; height: 35px; margin-right: 0; margin-bottom: 0; margin-left: 0;" />
+        <ui:Instance template="SnippetsAddRemovalWaitTemplate" name="SnippetsAddRemovalWaitTemplate" style="position: absolute; width: 100%; height: 100%; max-width: 100%; max-height: 100%; min-width: 100%; min-height: 100%; display: none;" />
+    </ui:VisualElement>
+</ui:UXML>
