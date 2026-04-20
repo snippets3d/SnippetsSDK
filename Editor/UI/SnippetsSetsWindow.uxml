@@ -1,0 +1,17 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/_Snippets/SnippetsSDK/Editor/UI/SnippetsStyles.uss?fileID=7433441132597879392&amp;guid=dd74fa6da00b6874c956cebaceaba284&amp;type=3#SnippetsStyles" />
+    <ui:VisualElement name="root-panel" class="snippets-background-panel" style="position: relative; flex-grow: 1; width: 100%; height: 100%; min-width: 100%; min-height: 100%; max-width: 100%; max-height: 100%; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+        <ui:VisualElement name="content-panel" style="flex-grow: 1; width: 100%; height: 100%; padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px;">
+            <ui:VisualElement name="header-container" style="width: 100%; padding-left: 4px; padding-right: 12px;">
+                <ui:VisualElement name="header-panel" style="position: relative; width: 96%; align-self: center; margin-top: 0; margin-right: 0; margin-bottom: 20px; margin-left: 0;">
+                    <ui:Label tabindex="-1" text="Snippets Sets of User" parse-escape-sequences="true" display-tooltip-when-elided="true" name="header-title" class="snippets-header-title" style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; font-size: 16px; -unity-font-definition: url(&quot;project://database/Assets/_Snippets/SnippetsSDK/Art/Fonts/Funnel_Display/static/FunnelDisplay-Bold%20SDF.asset?fileID=11400000&amp;guid=365814d28286dbe409a1cfd5023a95a4&amp;type=2#FunnelDisplay-Bold SDF&quot;); -unity-font-style: normal; width: 100%; -unity-text-align: middle-center;" />
+                    <ui:Button name="refresh-button" class="snippets-refresh-button" style="position: absolute; right: 20px; top: 0;" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:ScrollView name="snippets-sets-list" style="flex-grow: 1; -unity-background-image-tint-color: rgb(37, 37, 40); padding-right: 12px; padding-left: 4px; padding-top: 2px; padding-bottom: 2px;" />
+        </ui:VisualElement>
+        <ui:VisualElement name="please-wait-panel" style="display: none; position: absolute; top: 0; right: 0; bottom: 0; left: 0; width: 100%; height: 100%; flex-grow: 1; justify-content: center; align-items: center; background-color: rgba(48, 48, 48, 0.83); flex-direction: column; -unity-text-align: middle-center; z-index: 10;">
+            <ui:Label text="Loading snippet sets..." name="title-label" class="snippets-section-title" style="-unity-font-style: normal; -unity-text-align: middle-center; font-size: 14px; align-self: center;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
