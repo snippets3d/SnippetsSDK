@@ -1,0 +1,2084 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7694854144309143451
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1938632308371796441}
+    m_Modifications:
+    - target: {fileID: -7040431485694846952, guid: e35f352e5db1d9546a2e3ea862beb435,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7040431485694846952, guid: e35f352e5db1d9546a2e3ea862beb435,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7040431485694846952, guid: e35f352e5db1d9546a2e3ea862beb435,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7040431485694846952, guid: e35f352e5db1d9546a2e3ea862beb435,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -7040431485694846952, guid: e35f352e5db1d9546a2e3ea862beb435,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7040431485694846952, guid: e35f352e5db1d9546a2e3ea862beb435,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7040431485694846952, guid: e35f352e5db1d9546a2e3ea862beb435,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7040431485694846952, guid: e35f352e5db1d9546a2e3ea862beb435,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7040431485694846952, guid: e35f352e5db1d9546a2e3ea862beb435,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7040431485694846952, guid: e35f352e5db1d9546a2e3ea862beb435,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5567501825246839718, guid: e35f352e5db1d9546a2e3ea862beb435,
+        type: 3}
+      propertyPath: m_PlayAutomatically
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6553011461554725733, guid: e35f352e5db1d9546a2e3ea862beb435,
+        type: 3}
+      propertyPath: m_Name
+      value: animation_SNP
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 8880743935515874430, guid: e35f352e5db1d9546a2e3ea862beb435,
+    type: 3}
+--- !u!111 &2849125425740801085 stripped
+Animation:
+  m_CorrespondingSourceObject: {fileID: 5567501825246839718, guid: e35f352e5db1d9546a2e3ea862beb435,
+    type: 3}
+  m_PrefabInstance: {fileID: 7694854144309143451}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &8395485748703526787 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -7040431485694846952, guid: e35f352e5db1d9546a2e3ea862beb435,
+    type: 3}
+  m_PrefabInstance: {fileID: 7694854144309143451}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8293241893339508279
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 945421058678857910, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_animation
+      value: 
+      objectReference: {fileID: 2849125425740801085}
+    - target: {fileID: 3042386902137869189, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3042386902137869189, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3042386902137869189, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3042386902137869189, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3042386902137869189, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3042386902137869189, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3042386902137869189, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3042386902137869189, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3042386902137869189, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3042386902137869189, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3454229578958654781, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6593460882592774908, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: d9966f617e7b0b04e99a9d4dc52ec659, type: 3}
+    - target: {fileID: 7927825800777681783, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_Name
+      value: DoctorSnippet3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<Id>k__BackingField
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<Name>k__BackingField
+      value: Yes, and I want to confirm somethin
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<Text>k__BackingField
+      value: "[focused] Yes, and I want to confirm something in his previous imaging
+        before we move. Give me a moment, I\u2019ll be right back."
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<Sound>k__BackingField
+      value: 
+      objectReference: {fileID: 8300000, guid: d9966f617e7b0b04e99a9d4dc52ec659, type: 3}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<Animation>k__BackingField
+      value: 
+      objectReference: {fileID: 9101576053795863099, guid: e35f352e5db1d9546a2e3ea862beb435,
+        type: 3}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.size
+      value: 124
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[0]
+      value: '['
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[1]
+      value: f
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[2]
+      value: o
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[3]
+      value: c
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[4]
+      value: u
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[5]
+      value: s
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[6]
+      value: e
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[7]
+      value: d
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[8]
+      value: ']'
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[9]
+      value: ' '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[10]
+      value: Y
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[11]
+      value: e
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[12]
+      value: s
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[13]
+      value: ','
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[14]
+      value: ' '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[15]
+      value: a
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[16]
+      value: n
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[17]
+      value: d
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[18]
+      value: ' '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[19]
+      value: I
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[20]
+      value: ' '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[21]
+      value: w
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[22]
+      value: a
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[23]
+      value: n
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[24]
+      value: t
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[25]
+      value: ' '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[26]
+      value: t
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[27]
+      value: o
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[28]
+      value: ' '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[29]
+      value: c
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[30]
+      value: o
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[31]
+      value: n
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[32]
+      value: f
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[33]
+      value: i
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[34]
+      value: r
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[35]
+      value: m
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[36]
+      value: ' '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[37]
+      value: s
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[38]
+      value: o
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[39]
+      value: m
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[40]
+      value: e
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[41]
+      value: t
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[42]
+      value: h
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[43]
+      value: i
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[44]
+      value: n
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[45]
+      value: g
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[46]
+      value: ' '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[47]
+      value: i
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[48]
+      value: n
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[49]
+      value: ' '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[50]
+      value: h
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[51]
+      value: i
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[52]
+      value: s
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[53]
+      value: ' '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[54]
+      value: p
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[55]
+      value: r
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[56]
+      value: e
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[57]
+      value: v
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[58]
+      value: i
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[59]
+      value: o
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[60]
+      value: u
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[61]
+      value: s
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[62]
+      value: ' '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[63]
+      value: i
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[64]
+      value: m
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[65]
+      value: a
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[66]
+      value: g
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[67]
+      value: i
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[68]
+      value: n
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[69]
+      value: g
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[70]
+      value: ' '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[71]
+      value: b
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[72]
+      value: e
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[73]
+      value: f
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[74]
+      value: o
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[75]
+      value: r
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[76]
+      value: e
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[77]
+      value: ' '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[78]
+      value: w
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[79]
+      value: e
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[80]
+      value: ' '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[81]
+      value: m
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[82]
+      value: o
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[83]
+      value: v
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[84]
+      value: e
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[85]
+      value: .
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[86]
+      value: ' '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[87]
+      value: G
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[88]
+      value: i
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[89]
+      value: v
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[90]
+      value: e
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[91]
+      value: ' '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[92]
+      value: m
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[93]
+      value: e
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[94]
+      value: ' '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[95]
+      value: a
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[96]
+      value: ' '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[97]
+      value: m
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[98]
+      value: o
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[99]
+      value: m
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[100]
+      value: e
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[101]
+      value: n
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[102]
+      value: t
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[103]
+      value: ','
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[104]
+      value: ' '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[105]
+      value: I
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[106]
+      value: "\u2019"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[107]
+      value: l
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[108]
+      value: l
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[109]
+      value: ' '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[110]
+      value: b
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[111]
+      value: e
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[112]
+      value: ' '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[113]
+      value: r
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[114]
+      value: i
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[115]
+      value: g
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[116]
+      value: h
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[117]
+      value: t
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[118]
+      value: ' '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[119]
+      value: b
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[120]
+      value: a
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[121]
+      value: c
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[122]
+      value: k
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<Characters>k__BackingField.Array.data[123]
+      value: .
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.size
+      value: 124
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.size
+      value: 124
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[0]
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[1]
+      value: 0.026
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[2]
+      value: 0.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[3]
+      value: 0.034
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[4]
+      value: 0.038
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[5]
+      value: 0.042
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[6]
+      value: 0.046
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[7]
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[8]
+      value: 0.076
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[9]
+      value: 0.156
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[10]
+      value: 0.236
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[11]
+      value: 0.316
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[12]
+      value: 0.396
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[13]
+      value: 0.476
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[14]
+      value: 0.516
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[15]
+      value: 0.556
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[16]
+      value: 0.596
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[17]
+      value: 0.636
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[18]
+      value: 0.716
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[19]
+      value: 0.796
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[20]
+      value: 0.812
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[21]
+      value: 0.828
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[22]
+      value: 0.844
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[23]
+      value: 0.86
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[24]
+      value: 0.876
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[25]
+      value: 0.929
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[26]
+      value: 0.982
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[27]
+      value: 1.035
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[28]
+      value: 1.085
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[29]
+      value: 1.135
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[30]
+      value: 1.185
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[31]
+      value: 1.235
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[32]
+      value: 1.285
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[33]
+      value: 1.335
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[34]
+      value: 1.385
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[35]
+      value: 1.435
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[36]
+      value: 1.467
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[37]
+      value: 1.499
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[38]
+      value: 1.531
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[39]
+      value: 1.563
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[40]
+      value: 1.595
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[41]
+      value: 1.627
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[42]
+      value: 1.659
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[43]
+      value: 1.691
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[44]
+      value: 1.723
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[45]
+      value: 1.755
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[46]
+      value: 1.781
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[47]
+      value: 1.807
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[48]
+      value: 1.833
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[49]
+      value: 1.893
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[50]
+      value: 1.953
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[51]
+      value: 2.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[52]
+      value: 2.073
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[53]
+      value: 2.117
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[54]
+      value: 2.161
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[55]
+      value: 2.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[56]
+      value: 2.249
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[57]
+      value: 2.293
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[58]
+      value: 2.337
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[59]
+      value: 2.381
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[60]
+      value: 2.425
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[61]
+      value: 2.469
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[62]
+      value: 2.519
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[63]
+      value: 2.569
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[64]
+      value: 2.619
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[65]
+      value: 2.669
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[66]
+      value: 2.719
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[67]
+      value: 2.769
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[68]
+      value: 2.819
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[69]
+      value: 2.869
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[70]
+      value: 2.903
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[71]
+      value: 2.937
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[72]
+      value: 2.971
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[73]
+      value: 3.005
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[74]
+      value: 3.039
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[75]
+      value: 3.073
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[76]
+      value: 3.107
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[77]
+      value: 3.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[78]
+      value: 3.213
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[79]
+      value: 3.266
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[80]
+      value: 3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[81]
+      value: 3.394
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[82]
+      value: 3.458
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[83]
+      value: 3.522
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[84]
+      value: 3.586
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[85]
+      value: 3.666
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[86]
+      value: 3.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[87]
+      value: 3.954
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[88]
+      value: 4.098
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[89]
+      value: 4.242
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[90]
+      value: 4.386
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[91]
+      value: 4.412
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[92]
+      value: 4.438
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[93]
+      value: 4.464
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[94]
+      value: 4.504
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[95]
+      value: 4.544
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[96]
+      value: 4.578
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[97]
+      value: 4.612
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[98]
+      value: 4.646
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[99]
+      value: 4.68
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[100]
+      value: 4.714
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[101]
+      value: 4.748
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[102]
+      value: 4.782
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[103]
+      value: 5.022
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[104]
+      value: 5.062
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[105]
+      value: 5.102
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[106]
+      value: 5.128
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[107]
+      value: 5.154
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[108]
+      value: 5.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[109]
+      value: 5.206
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[110]
+      value: 5.232
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[111]
+      value: 5.258
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[112]
+      value: 5.284
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[113]
+      value: 5.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[114]
+      value: 5.336
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[115]
+      value: 5.362
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[116]
+      value: 5.388
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[117]
+      value: 5.414
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[118]
+      value: 5.478
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[119]
+      value: 5.542
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[120]
+      value: 5.606
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[121]
+      value: 5.67
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[122]
+      value: 5.734
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterEndTimes>k__BackingField.Array.data[123]
+      value: 5.814
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[1]
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[2]
+      value: 0.026
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[3]
+      value: 0.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[4]
+      value: 0.034
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[5]
+      value: 0.038
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[6]
+      value: 0.042
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[7]
+      value: 0.046
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[8]
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[9]
+      value: 0.076
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[10]
+      value: 0.156
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[11]
+      value: 0.236
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[12]
+      value: 0.316
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[13]
+      value: 0.396
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[14]
+      value: 0.476
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[15]
+      value: 0.516
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[16]
+      value: 0.556
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[17]
+      value: 0.596
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[18]
+      value: 0.636
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[19]
+      value: 0.716
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[20]
+      value: 0.796
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[21]
+      value: 0.812
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[22]
+      value: 0.828
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[23]
+      value: 0.844
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[24]
+      value: 0.86
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[25]
+      value: 0.876
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[26]
+      value: 0.929
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[27]
+      value: 0.982
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[28]
+      value: 1.035
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[29]
+      value: 1.085
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[30]
+      value: 1.135
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[31]
+      value: 1.185
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[32]
+      value: 1.235
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[33]
+      value: 1.285
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[34]
+      value: 1.335
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[35]
+      value: 1.385
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[36]
+      value: 1.435
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[37]
+      value: 1.467
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[38]
+      value: 1.499
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[39]
+      value: 1.531
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[40]
+      value: 1.563
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[41]
+      value: 1.595
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[42]
+      value: 1.627
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[43]
+      value: 1.659
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[44]
+      value: 1.691
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[45]
+      value: 1.723
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[46]
+      value: 1.755
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[47]
+      value: 1.781
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[48]
+      value: 1.807
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[49]
+      value: 1.833
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[50]
+      value: 1.893
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[51]
+      value: 1.953
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[52]
+      value: 2.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[53]
+      value: 2.073
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[54]
+      value: 2.117
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[55]
+      value: 2.161
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[56]
+      value: 2.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[57]
+      value: 2.249
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[58]
+      value: 2.293
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[59]
+      value: 2.337
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[60]
+      value: 2.381
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[61]
+      value: 2.425
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[62]
+      value: 2.469
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[63]
+      value: 2.519
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[64]
+      value: 2.569
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[65]
+      value: 2.619
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[66]
+      value: 2.669
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[67]
+      value: 2.719
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[68]
+      value: 2.769
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[69]
+      value: 2.819
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[70]
+      value: 2.869
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[71]
+      value: 2.903
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[72]
+      value: 2.937
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[73]
+      value: 2.971
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[74]
+      value: 3.005
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[75]
+      value: 3.039
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[76]
+      value: 3.073
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[77]
+      value: 3.107
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[78]
+      value: 3.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[79]
+      value: 3.213
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[80]
+      value: 3.266
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[81]
+      value: 3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[82]
+      value: 3.394
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[83]
+      value: 3.458
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[84]
+      value: 3.522
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[85]
+      value: 3.586
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[86]
+      value: 3.666
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[87]
+      value: 3.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[88]
+      value: 3.954
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[89]
+      value: 4.098
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[90]
+      value: 4.242
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[91]
+      value: 4.386
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[92]
+      value: 4.412
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[93]
+      value: 4.438
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[94]
+      value: 4.464
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[95]
+      value: 4.504
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[96]
+      value: 4.544
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[97]
+      value: 4.578
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[98]
+      value: 4.612
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[99]
+      value: 4.646
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[100]
+      value: 4.68
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[101]
+      value: 4.714
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[102]
+      value: 4.748
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[103]
+      value: 4.782
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[104]
+      value: 5.022
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[105]
+      value: 5.062
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[106]
+      value: 5.102
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[107]
+      value: 5.128
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[108]
+      value: 5.154
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[109]
+      value: 5.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[110]
+      value: 5.206
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[111]
+      value: 5.232
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[112]
+      value: 5.258
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[113]
+      value: 5.284
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[114]
+      value: 5.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[115]
+      value: 5.336
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[116]
+      value: 5.362
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[117]
+      value: 5.388
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[118]
+      value: 5.414
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[119]
+      value: 5.478
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[120]
+      value: 5.542
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[121]
+      value: 5.606
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[122]
+      value: 5.67
+      objectReference: {fileID: 0}
+    - target: {fileID: 8045659150639517358, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_value.<AudioTimestamps>k__BackingField.<CharacterStartTimes>k__BackingField.Array.data[123]
+      value: 5.734
+      objectReference: {fileID: 0}
+    - target: {fileID: 8299151308684868372, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 9052357363905453670, guid: fbcc40e91526859428bab09db558e208, type: 3}
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 7633852332634742766, guid: fbcc40e91526859428bab09db558e208,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8395485748703526787}
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fbcc40e91526859428bab09db558e208, type: 3}
+--- !u!4 &1938632308371796441 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7633852332634742766, guid: fbcc40e91526859428bab09db558e208,
+    type: 3}
+  m_PrefabInstance: {fileID: 8293241893339508279}
+  m_PrefabAsset: {fileID: 0}

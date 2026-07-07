@@ -1,0 +1,20 @@
+{
+    "name": "Snippets.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b404dc1f61b52fc43b1520462d36f34f",
+        "GUID:18d18f811ba286c49814567a3cfba688",
+        "GUID:1a0324566af4ed544918d6837a1f4e11"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,195 @@
+.snippets-background-panel,
+.snippets-panel,
+.snippets-button,
+.snippets-button-list-item,
+.snippets-refresh-button,
+.snippets-header-title,
+.snippets-section-title,
+.snippets-section-subtitle,
+.snippets-name-list-item,
+.snippets-directory-list-item,
+.snippets-description-list-item,
+.snippets-text-field,
+.snippets-object-field {
+    -unity-font: url("../../Art/Fonts/Funnel_Sans/static/FunnelSans-Regular.ttf");
+}
+.snippets-button {
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    min-height: 30px;
+    font-size: 14px;
+    -unity-font-style: bold;
+    background-color: rgb(35, 136, 255);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    width: 30%;
+    align-self: center;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    margin-top: 0;
+}
+
+.snippets-header-title {
+    font-size: 22px;
+    -unity-font-style: bold;
+    align-self: center;
+    margin-bottom: 15px;
+    margin-top: 7px; color: rgb(211, 225, 241);
+}
+
+.snippets-section-title {
+    -unity-font-style: bold;
+    font-size: 16px; color: rgb(211, 225, 241);
+}
+
+.snippets-name-list-item {
+    -unity-font-style: italic;
+    font-size: 12px; color: rgb(211, 225, 241);
+}
+
+.snippets-directory-list-item {
+    -unity-font-style: italic;
+    font-size: 12px; color: rgb(211, 225, 241);
+}
+
+.snippets-text-field {
+    font-size: 14px;
+    min-height: 25px; color: rgb(211, 225, 241);
+}
+
+.snippets-background-panel {
+    flex-grow: 1;
+    background-color: rgb(34, 38, 41);
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+.snippets-panel {
+    margin-bottom: 40px;
+}
+
+.snippets-button-list-item {
+    height: 23px;
+    width: 102px;
+    background-color: rgb(35, 136, 255);
+    color: rgb(255, 255, 255); border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+}
+
+.snippets-description-list-item {
+    color: rgb(211, 225, 241); }
+
+.snippets-section-subtitle {
+    -unity-font-style: bold-and-italic;
+    font-size: 12px; color: rgb(211, 225, 241);
+}
+
+.snippets-text-field > TextInput {
+    background-color: rgb(53, 60, 64);
+    padding-right: 5px;
+    padding-left: 5px;
+
+}
+
+.snippets-button:hover {
+    background-color: rgb(77, 158, 255);
+}
+
+.snippets-button-list-item:hover {
+    background-color: rgb(76, 158, 255);
+}
+
+.snippets-refresh-button {
+    width: 16px;
+    height: 16px;
+    min-width: 16px;
+    min-height: 16px;
+    background-color: rgba(0, 0, 0, 0);
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    -unity-background-image-tint-color: rgb(211, 225, 241);
+}
+
+.snippets-refresh-button:hover {
+    -unity-background-image-tint-color: rgb(235, 242, 250);
+}
+
+.snippets-object-field {
+    color: rgb(211, 225, 241);
+ 
+}
+
+.snippets-object-field > Label {
+    color: rgb(211, 225, 241);
+}
+
+.snippets-object-field--nolabel > Label,
+.snippets-object-field--nolabel > .unity-base-field__label {
+    display: none;
+}
+
+.snippets-object-field--nolabel > #unity-text-input,
+.snippets-object-field--nolabel .unity-text-field__input,
+.snippets-object-field--nolabel .unity-object-field__input,
+.snippets-object-field--nolabel > .unity-base-field__input {
+    flex: 1 1 auto;
+    width: 100%;
+}
+
+.snippets-text-field > #unity-text-input,
+.snippets-text-field .unity-text-field__input {
+    flex: 0 0 210px;  
+    width: 210px;     
+}
+
+.snippets-text-field > Label,
+.snippets-text-field > .unity-base-field__label {
+    flex: 0 0 180px;   
+    width: 180px;
+    min-width: 0;     
+    text-align: right;
+    margin-right: 5px;
+}
+
+.unity-text-field {
+}
+
+.snippets-text-field { font-size: 14px;
+    min-height: 30px;
+    -unity-text-align: middle-left;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 10px;
+    margin-left: 0;
+    overflow: hidden;
+    
+    flex-direction: row;
+    flex-basis: auto;
+    height: 30px;
+}
+
+.unity-base-text-field {
+}
+
+.unity-base-field {
+}
